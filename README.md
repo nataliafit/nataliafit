@@ -1,4 +1,4 @@
-![Natalia banner](https://raw.githubusercontent.com/nataliafit/nataliafit/main/banner.png?v=20260514b)
+![Natalia banner](./banner.png)
 
 ## Hi there, I'm Natalia ✨
 
